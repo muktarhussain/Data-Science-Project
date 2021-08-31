@@ -6,9 +6,9 @@
 <br>
 <br>
 
-<p>This capstone project is a part of IBM Data Science Specialization at Coursera. Other DSWG projects can be found at 
-  the [main GitHub repo](https://github.com/muktarhussain/Data-Science-Project).
-</p>
+This capstone project is a part of IBM Data Science Specialization at Coursera. Other DSWG projects can be found at 
+the [main GitHub repo](https://github.com/muktarhussain/Data-Science-Project).
+
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
