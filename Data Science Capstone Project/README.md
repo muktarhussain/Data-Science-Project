@@ -5,7 +5,7 @@
 </p>
 <br>
 <br>
-# About
+
 This capstone project is a part of IBM Data Science Specialization at Coursera. Other DSWG projects can be found at 
 the [main GitHub repo](https://github.com/muktarhussain/Data-Science-Project).
 
