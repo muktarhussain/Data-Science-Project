@@ -1,8 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">SpaceX Falcon 9 first stage Landing Prediction</h3>
+  <h1 align="center">SpaceX Falcon 9 first stage Landing Prediction</h1>
 </p>
+<br>
+<br>
+
 <p>This capstone project is a part of IBM Data Science Specialization at Coursera. Other DSWG projects can be found at 
   the [main GitHub repo](https://github.com/muktarhussain/Data-Science-Project).
 </p>
@@ -34,5 +37,5 @@ format from an API.
 * MySql, IBM db2 Cloud
 * etc. 
 
-## About the Datasets
+### About the Datasets
 The datasets are taken brom the IBM Cloud Storage and the link of all the datasets are provided in each module.
